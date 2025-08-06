@@ -54,7 +54,7 @@ Designed to showcase:
 
 🧑‍💻 Author
 Ankit Kumar
-B.E. Computer Science | SVCE Bangalore
+B.E. Computer Science | SVCE Bangalore|
 Passionate about building polished, real-world tools with Python, UI/UX sensibility, and recruiter appeal.
 
 
